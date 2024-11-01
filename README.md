@@ -1,6 +1,6 @@
 Work is in Progress
 "# intelligent-customer-support"
-## To create a tool similar to ChainDesk.ai, which integrates a knowledge base with AI to provide real-time answers, you'd need to combine several components for data retrieval, document processing, and language understanding. Here’s a high-level breakdown of the approach:
+## To create a tool similar to ChatAgent Generator, which integrates a knowledge base with AI to provide real-time answers, you'd need to combine several components for data retrieval, document processing, and language understanding. Here’s a high-level breakdown of the approach:
 
 ### Architecture & Core Components Frontend Interface: 
    Create an intuitive interface (likely using React, Next.js, or Angular) where users can ask questions, view responses, and interact with documents or data. Backend Services: Use a backend (such as Java Spring Boot 
